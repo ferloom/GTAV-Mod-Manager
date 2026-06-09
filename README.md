@@ -67,6 +67,6 @@ Always make a backup of your GTA V directory before using mods.
 ### 📦 Run from source (Python)
 
 ```bash
-git clone https://github.com/xTatrek/GTAV-Mod-Manager.git
+git clone https://github.com/ferloom/GTAV-Mod-Manager.git
 cd GTAV-Mod-Manager
 python main.py
